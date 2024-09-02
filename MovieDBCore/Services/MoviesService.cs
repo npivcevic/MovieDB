@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using WebApplication1.DTOs;
+﻿using WebApplication1.DTOs;
 using WebApplication1.Mappers;
 using WebApplication1.Models;
 using WebApplication1.Repositories;

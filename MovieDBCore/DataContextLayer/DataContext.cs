@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Hosting;
 using WebApplication1.Models;
 
 namespace WebApplication1.DataContextLayer
